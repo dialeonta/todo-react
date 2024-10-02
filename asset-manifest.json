@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dialeonta/todo-react/static/css/main.ebea79eb.css",
+    "main.js": "/dialeonta/todo-react/static/js/main.c8a32174.js",
+    "index.html": "/dialeonta/todo-react/index.html",
+    "static/media/delete.svg": "/dialeonta/todo-react/static/media/delete.b5ce6a34286045376c422b23d589fc9a.svg",
+    "static/media/check.svg": "/dialeonta/todo-react/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.ebea79eb.css.map": "/dialeonta/todo-react/static/css/main.ebea79eb.css.map",
+    "main.c8a32174.js.map": "/dialeonta/todo-react/static/js/main.c8a32174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebea79eb.css",
+    "static/js/main.c8a32174.js"
+  ]
+}
